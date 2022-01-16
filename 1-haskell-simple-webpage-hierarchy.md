@@ -1,8 +1,8 @@
 - view
   - page
     - topnav
-    - content _(needs email)_
+    - content (**_needs email_**)
       - left
       - right
         - article
-          - widget _(needs email)_
+          - widget (**_needs email_**)
