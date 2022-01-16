@@ -1,0 +1,8 @@
+- view
+  - page
+    - topnav
+    - content _(needs email)_
+      - left
+      - right
+        - article
+          - widget _(needs email)_
